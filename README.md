@@ -8,15 +8,17 @@ De là est née l'idée de **hacker une machine à écrire** à l’aide d’un 
 
 ## Qu'est-ce que le hacking ?
 
-Le terme *hack* se popularise en 1959 au MIT, parmi les passionnés d'électronique de Tech. Aujourd'hui, il désigne le plus souvent une pratique malveillante. À l'époque, la définition proposée par Peter R. Samson n'avait aucune connotation illégale. Le hack y était  quelque chose fait à des fins non-constructives un projet peu rigoureux un amplificateur d’entropie produire ou essayer de produire une bidouille.
+Le terme *hack* se popularise en 1959 au MIT, parmi les passionnés d'électronique de Tech. Aujourd'hui, il désigne le plus souvent une pratique malveillante. À l'époque, la définition proposée par Peter R. Samson n'avait aucune connotation illégale. Le hack y était  quelque chose fait à
+des fins non-constructives un projet peu rigoureux un amplificateur d’entropie produire ou essayer de produire une bidouille.
 
 Le hacking devrait donc être compris comme l'activité de **bidouilleurs qui détournent l'usage classique d'outils afin de créer de nouvelles possibilités**. C'est exactement ce que nous faisons avec la machine à écrire.
 
 Plusieurs termes ont été créés pour distinguer les philosophies du hacking :
 
-**White hat** : hacker éthique, qui agit avec autorisation souvent pour tester et renforcer la sécurité des systèmes.
-**Black hat** : hacker qui agit à des fins malveillantes, de manière illégale.
-**Grey hat** : entre les deux, il agit sans autorisation mais sans intention malveillante et signale souvent les failles qu'il découvre.
+**White hat** : hacker éthique, qui agit avec autorisation souvent pour tester et renforcer la sécurité des systèmes.  
+**Black hat** : hacker qui agit à des fins malveillantes, de manière illégale.  
+**Grey hat** : entre les deux, il agit sans autorisation mais sans intention malveillante et signale souvent les failles qu'il découvre.  
+
 
 ## L'histoire de la machine à écrire
 
